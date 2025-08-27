@@ -1,4 +1,4 @@
-# Bank Statement Analyser
+# Analysing Bank Statements
 
 ### Overview
 This application analyses bank statements and provides analytical reports on the account expenses. 
@@ -12,11 +12,6 @@ This is a personal project to get an idea about my expenses and sharpen my knowl
 
 Behind the scenes, the app extracts transaction details from documents, predicts a category for each transaction, and upload the data to a SQL database linked to interactive PowerBI visualisations.
 
-### Demo
-https://bsa-demo.azurewebsites.net/<br/>
-Username : admin<br/>
-Password : password123
-> Visualisations are generated from ~3000 transaction samples which can be viewed in transaction.db
 
 There are three main screens to the application : 
 - Transaction details
